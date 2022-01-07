@@ -1,0 +1,30 @@
+body {   
+  font-family: 'Kumbh Sans', sans-serif;
+ text-align: center ;
+ background-color: rgb(238, 145, 160) ;
+}
+
+h1 {
+ color: rgb(238, 215, 219);
+}
+
+.bigTitle {
+    color: rgb(189, 33, 189);
+    text-align: center;
+}
+
+.feedback {
+    text-decoration: none;
+    text-align: center;
+    width: 60px 120px;
+    padding: 10px 10px;
+position: relative;
+left: 200px;
+ top :      70px;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration:none;
+    background-color: rgb(64, 145, 221);
+}
